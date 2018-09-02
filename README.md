@@ -12,7 +12,7 @@ Be sure to complete Lesson 1 - Basic Python Tools Setup instructions from [Beau 
 - [ ] pprint
 
 
-  
+
 
 You can use the following command to install each package (assumes Python 3.6):  
 
@@ -54,3 +54,12 @@ textfsm (0.4.1)
 urllib3 (1.23)
 ```
 
+------
+
+## Sample configuration files
+
+There are sample configuration files available. One for ssh access and one for telnet access.
+
+------
+
+rev 09022018-0800
