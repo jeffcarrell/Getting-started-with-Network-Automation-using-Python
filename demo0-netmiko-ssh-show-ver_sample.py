@@ -33,6 +33,8 @@ output = net_connect.send_command("show version")     # see notes below
 
 print(output)
 
+
+
 #
 #-----------------------------------------------------------
 # substitute '<switch-brand>' for netmiko device descriptor, 
@@ -44,18 +46,18 @@ print(output)
 # 
 #-----------------------------------------------------------
 # substitute '<ip-address>' for switch ip address, for lab:
-#   Cisco 3850 = 10.1.1.201
-#   Cisco 3750 = 10.1.1.202 
-#   Cisco 2970 = 10.1.1.203   # note 2970 does not support SSH
-#   Cisco IOSv = 10.1.1.204
-#   Cisco NXOS = 10.1.1.205
-#   Cisco 2811 = 10.1.1.206
-#   Aruba 3810 = 10.1.1.211
-#   Aruba 3800 = 10.1.1.212
-#   Aruba 8400 = 10.1.1.213
-#   HPE   5900 = 10.1.1.222
-#   HPE   5940 = 10.1.1.223
-#   HPE   VSR1000 = 10.1.1.224
+#   Cisco 3850  = 10.1.1.201
+#   Cisco 3750  = 10.1.1.202 
+#   Cisco 2970  = 10.1.1.203   # note 2970 does not support SSH
+#   Cisco IOSv  = 10.1.1.204
+#   Cisco NXOS  = 10.1.1.205
+#   Cisco 2811  = 10.1.1.206
+#   Aruba 3810  = 10.1.1.211
+#   Aruba 3800  = 10.1.1.212
+#   Aruba 8400  = 10.1.1.213
+#   HPE   5900  = 10.1.1.222
+#   HPE   5940  = 10.1.1.223
+#   HPE VSR1000 = 10.1.1.224
 #-----------------------------------------------------------
 #
 #-----------------------------------------------------------
