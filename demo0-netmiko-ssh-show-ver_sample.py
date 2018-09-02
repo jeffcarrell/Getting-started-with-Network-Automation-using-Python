@@ -2,7 +2,7 @@
 #-----------------------------------------------------------
 # 09.02.2018, Jeff Carrell
 #
-# filename = demo0-netmiko-ssh-show-ver_sample.py
+# filename = demo00-netmiko-ssh-show-ver_sample.py
 #
 # this is a sample script, using netmiko to ssh comm to a
 #  single switch, to run a single command.
